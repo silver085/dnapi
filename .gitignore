@@ -33,3 +33,6 @@ build/
 /src/main/java/com/dn/DNApi/Facades/Mail/MailSenderFacade.java
 /src/main/java/com/dn/DNApi/Facades/Mail/MimeMessageFromDN.java
 /storage/
+src/main/resources/application-dev.properties
+src/main/resources/application.properties
+src/main/resources/application-server-dp.properties
